@@ -5,9 +5,9 @@ export default function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-      </header>
-       Hello
+    </header>
+    <a href='/'  className='btn btn-primary'> Search</a>
+  
     </div>
   );
 }
