@@ -9,7 +9,7 @@ export default function App() {
       <header className="App-header">
           <img src={logo} className="App-logo img fluid" alt="logo" />
     </header>
-    <main> <Dictionary defaultKeyword="Hello" />
+    <main> <Dictionary defaultKeyword="Beach" />
     </main>
         <footer className='App-footer'>
         <small> This project was coded by <a href="https://precious-otter-6afb15.netlify.app/" target="_blank" rel="noreferrer">Luciana Carvalho</a>  and is

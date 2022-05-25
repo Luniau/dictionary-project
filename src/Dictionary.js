@@ -53,7 +53,7 @@ function load(){
   defaultValue={props.defaultKeyword}/>
          </form>  
          <div className="hint">
-             Suggested words: book, sunset, plant, sea... 
+             Suggested words: book, sunset, beach, wine... 
              </div> 
             </section>
          <Results results={results}/>
