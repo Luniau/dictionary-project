@@ -1,8 +1,15 @@
+body {
+    background: rgb(168, 245, 241);
+}
+
+a {
+    color: rgb(13, 34, 228);
+}
 .App-header {
     margin: 30px 0;
 }
 .App-logo {
-max-width: 400px;
+max-width: 200px;
 display: block;
 margin: 0 auto; 
 }
